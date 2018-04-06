@@ -23,7 +23,7 @@ public class detect1 {
 		}
 			 
 			
-			System.out.println("\nThe difference is " + difference + "\n\nYou have the symptoms of a grand mal seizure!!! Your caretakers will be alerted!!!!\n");
+			System.out.println("\nThe difference is " + difference + "\n\n You have the symptoms of a grand mal seizure!!! Your caretakers will be alerted!!!!\n");
 			seizure = true; 
 			
 		
